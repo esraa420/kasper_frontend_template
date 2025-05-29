@@ -897,7 +897,7 @@ font-weight: normal;
  .subscribe{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url("/images/quotes1.jpg");
+    background-image: url("../images/quotes1.jpg");
     background-size: cover;
     position: relative;
     color: white;
@@ -1042,7 +1042,7 @@ font-weight: normal;
 .footer{
   padding-top: calc(var(--section-padding) /2);
   padding-bottom: calc(var(--section-padding) /2);
-  background-image: url("/images/quotes1.jpg");
+  background-image: url("../images/quotes1.jpg");
     background-size: cover;
     position: relative;
     color: white;
